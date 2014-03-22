@@ -1,3 +1,5 @@
-# Dorota
+# Dorota band site
 
-Imported from an old php site.
+http://dorota.hu
+
+(Imported from an old php site.)
